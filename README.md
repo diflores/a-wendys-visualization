@@ -3,14 +3,14 @@ This example originally aimed to show some basic HTML+CSS ([skeleton](http://get
 
 This version is slightly different of what I've presented before. It is now in English and I don't use jQuery anymore.
 
+## Data
 
+I got the Wendy's restaurants information from [here](https://github.com/natashadecoste/JavaGraphing/blob/master/data/wendys.csv).
 
 ## Future work
 
 I did this with very little knowledge about good web development practices, so I'd like to make some code refactoring as soon as I got time.
 
+## Preview
 
-
-## Data
-
-I got the Wendy's restaurants information from [here](https://github.com/natashadecoste/JavaGraphing/blob/master/data/wendys.csv).
+You can see the website [here](http://htmlpreview.github.io/?https://github.com/diflores/a-wendys-visualization/blob/master/index.html).
