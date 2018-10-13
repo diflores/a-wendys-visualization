@@ -13,4 +13,4 @@ I did this with very little knowledge about good web development practices, so I
 
 ## Preview
 
-You can see the visualization [here](http://htmlpreview.github.io/?https://github.com/diflores/a-wendys-visualization/blob/master/index.html).
+You can see the visualization [here](https://diflores.github.io/a-wendys-visualization/).
